@@ -6,7 +6,7 @@ I'm a first-year student at École Nationale des Sciences de l'Informatique (ENS
 - Programming Languages: Python, C++
 - Machine Learning: TensorFlow, scikit-learn
 - Robotics: ROS (Robot Operating System)
-- Deep Learning:  Keras
+
 
 
 ## Get in Touch
