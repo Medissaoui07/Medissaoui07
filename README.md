@@ -3,3 +3,4 @@
 ## Get in Touch
 - LinkedIn: https://www.linkedin.com/in/mohamed-issaoui-/
 - Email:mohamed.issaoui@ensi-uma.tn
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Medissaoui07)](https://github.com/anuraghazra/github-readme-stats)
