@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm a **Computer Science Engineer** from Tunisia with a deep passion for **robotics**, **AI**, and **embedded systems**. My goal is to bridge the gap between software and the physical world — by building intelligent, autonomous robots.
+<h2 align="left">Hi 👋! I'm a 3rd Year Computer Science Student at National School of Computer Science  from Tunisia with a deep passion for Robotics, AI, and Embedded Systems. My goal is to bridge the gap between software and the physical world — by building intelligent, autonomous robots.
 </h2>
 
 ###
